@@ -6,12 +6,12 @@
     "deprecated": false,
     "default": true
   },
-  "originalCxxBuildFolder": "/Users/akshatbajpai/AndroidStudioProjects/SampleC/app/.cxx/cmake/debug/arm64-v8a",
-  "cxxBuildFolder": "/Users/akshatbajpai/AndroidStudioProjects/SampleC/app/.cxx/cmake/debug/arm64-v8a",
+  "originalCxxBuildFolder": "/Users/akshatbajpai/Desktop/Work/SampleC/app/.cxx/cmake/debug/arm64-v8a",
+  "cxxBuildFolder": "/Users/akshatbajpai/Desktop/Work/SampleC/app/.cxx/cmake/debug/arm64-v8a",
   "abiPlatformVersion": 16,
   "cmake": {
-    "cmakeWrappingBaseFolder": "/Users/akshatbajpai/AndroidStudioProjects/SampleC/app/.cxx/cxx/debug/arm64-v8a",
-    "cmakeArtifactsBaseFolder": "/Users/akshatbajpai/AndroidStudioProjects/SampleC/app/.cxx/cmake/debug/arm64-v8a",
+    "cmakeWrappingBaseFolder": "/Users/akshatbajpai/Desktop/Work/SampleC/app/.cxx/cxx/debug/arm64-v8a",
+    "cmakeArtifactsBaseFolder": "/Users/akshatbajpai/Desktop/Work/SampleC/app/.cxx/cmake/debug/arm64-v8a",
     "effectiveConfiguration": {
       "name": "traditional-android-studio-cmake-environment",
       "description": "Composite reified CMakeSettings configuration",
@@ -19,13 +19,13 @@
       "inheritEnvironments": [
         "ndk"
       ],
-      "buildRoot": "/Users/akshatbajpai/AndroidStudioProjects/SampleC/app/.cxx/cmake/debug/arm64-v8a",
+      "buildRoot": "/Users/akshatbajpai/Desktop/Work/SampleC/app/.cxx/cmake/debug/arm64-v8a",
       "cmakeToolchain": "/Users/akshatbajpai/Library/Android/sdk/ndk/21.4.7075529/build/cmake/android.toolchain.cmake",
       "cmakeExecutable": "/Users/akshatbajpai/Library/Android/sdk/cmake/3.10.2.4988404/bin/cmake",
       "variables": [
         {
           "name": "CMAKE_FIND_ROOT_PATH",
-          "value": "/Users/akshatbajpai/AndroidStudioProjects/SampleC/app/.cxx/cmake/debug/prefab/arm64-v8a/prefab"
+          "value": "/Users/akshatbajpai/Desktop/Work/SampleC/app/.cxx/cmake/debug/prefab/arm64-v8a/prefab"
         },
         {
           "name": "CMAKE_BUILD_TYPE",
@@ -61,11 +61,11 @@
         },
         {
           "name": "CMAKE_LIBRARY_OUTPUT_DIRECTORY",
-          "value": "/Users/akshatbajpai/AndroidStudioProjects/SampleC/app/build/intermediates/cmake/debug/obj/arm64-v8a"
+          "value": "/Users/akshatbajpai/Desktop/Work/SampleC/app/build/intermediates/cmake/debug/obj/arm64-v8a"
         },
         {
           "name": "CMAKE_RUNTIME_OUTPUT_DIRECTORY",
-          "value": "/Users/akshatbajpai/AndroidStudioProjects/SampleC/app/build/intermediates/cmake/debug/obj/arm64-v8a"
+          "value": "/Users/akshatbajpai/Desktop/Work/SampleC/app/build/intermediates/cmake/debug/obj/arm64-v8a"
         },
         {
           "name": "CMAKE_MAKE_PROGRAM",
@@ -81,7 +81,7 @@
         }
       ]
     },
-    "cmakeServerLogFile": "/Users/akshatbajpai/AndroidStudioProjects/SampleC/app/.cxx/cmake/debug/arm64-v8a/cmake_server_log.txt"
+    "cmakeServerLogFile": "/Users/akshatbajpai/Desktop/Work/SampleC/app/.cxx/cmake/debug/arm64-v8a/cmake_server_log.txt"
   },
   "variant": {
     "buildSystemArgumentList": [],
@@ -90,8 +90,8 @@
       ""
     ],
     "variantName": "debug",
-    "objFolder": "/Users/akshatbajpai/AndroidStudioProjects/SampleC/app/build/intermediates/cmake/debug/obj",
-    "soFolder": "/Users/akshatbajpai/AndroidStudioProjects/SampleC/app/build/intermediates/cmake/debug/lib",
+    "objFolder": "/Users/akshatbajpai/Desktop/Work/SampleC/app/build/intermediates/cmake/debug/obj",
+    "soFolder": "/Users/akshatbajpai/Desktop/Work/SampleC/app/build/intermediates/cmake/debug/lib",
     "isDebuggableEnabled": true,
     "validAbiList": [
       "ARM64_V8A"
@@ -100,13 +100,13 @@
     "implicitBuildTargetSet": [],
     "cmakeSettingsConfiguration": "android-gradle-plugin-predetermined-name",
     "module": {
-      "cxxFolder": "/Users/akshatbajpai/AndroidStudioProjects/SampleC/app/.cxx",
+      "cxxFolder": "/Users/akshatbajpai/Desktop/Work/SampleC/app/.cxx",
       "splitsAbiFilterSet": [],
-      "intermediatesFolder": "/Users/akshatbajpai/AndroidStudioProjects/SampleC/app/build/intermediates",
+      "intermediatesFolder": "/Users/akshatbajpai/Desktop/Work/SampleC/app/build/intermediates",
       "gradleModulePathName": ":app",
-      "moduleRootFolder": "/Users/akshatbajpai/AndroidStudioProjects/SampleC/app",
-      "moduleBuildFile": "/Users/akshatbajpai/AndroidStudioProjects/SampleC/app/build.gradle",
-      "makeFile": "/Users/akshatbajpai/AndroidStudioProjects/SampleC/app/src/main/cpp/CMakeLists.txt",
+      "moduleRootFolder": "/Users/akshatbajpai/Desktop/Work/SampleC/app",
+      "moduleBuildFile": "/Users/akshatbajpai/Desktop/Work/SampleC/app/build.gradle",
+      "makeFile": "/Users/akshatbajpai/Desktop/Work/SampleC/app/src/main/cpp/CMakeLists.txt",
       "buildSystem": "CMAKE",
       "ndkFolder": "/Users/akshatbajpai/Library/Android/sdk/ndk/21.4.7075529",
       "ndkVersion": "21.4.7075529",
@@ -192,9 +192,9 @@
         "SYSTEM": {}
       },
       "project": {
-        "rootBuildGradleFolder": "/Users/akshatbajpai/AndroidStudioProjects/SampleC",
-        "cxxFolder": "/Users/akshatbajpai/AndroidStudioProjects/SampleC/.cxx",
-        "compilerSettingsCacheFolder": "/Users/akshatbajpai/AndroidStudioProjects/SampleC/.cxx",
+        "rootBuildGradleFolder": "/Users/akshatbajpai/Desktop/Work/SampleC",
+        "cxxFolder": "/Users/akshatbajpai/Desktop/Work/SampleC/.cxx",
+        "compilerSettingsCacheFolder": "/Users/akshatbajpai/Desktop/Work/SampleC/.cxx",
         "sdkFolder": "/Users/akshatbajpai/Library/Android/sdk",
         "isNativeCompilerSettingsCacheEnabled": false,
         "isBuildOnlyTargetAbiEnabled": true,
@@ -205,10 +205,10 @@
       },
       "nativeBuildOutputLevel": "QUIET"
     },
-    "prefabDirectory": "/Users/akshatbajpai/AndroidStudioProjects/SampleC/app/.cxx/cmake/debug/prefab"
+    "prefabDirectory": "/Users/akshatbajpai/Desktop/Work/SampleC/app/.cxx/cmake/debug/prefab"
   },
   "buildSettings": {
     "environmentVariables": []
   },
-  "prefabFolder": "/Users/akshatbajpai/AndroidStudioProjects/SampleC/app/.cxx/cmake/debug/prefab/arm64-v8a"
+  "prefabFolder": "/Users/akshatbajpai/Desktop/Work/SampleC/app/.cxx/cmake/debug/prefab/arm64-v8a"
 }

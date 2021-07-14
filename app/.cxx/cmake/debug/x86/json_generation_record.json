@@ -2,21 +2,21 @@
   {
     "level": "INFO",
     "message": "Start JSON generation. Platform version: 16 min SDK version: x86",
-    "file": "/Users/akshatbajpai/AndroidStudioProjects/SampleC/app/src/main/cpp/CMakeLists.txt",
+    "file": "/Users/akshatbajpai/Desktop/Work/SampleC/app/src/main/cpp/CMakeLists.txt",
     "tag": "debug|x86",
     "diagnosticCode": "UNKNOWN"
   },
   {
     "level": "INFO",
-    "message": "JSON \u0027/Users/akshatbajpai/AndroidStudioProjects/SampleC/app/.cxx/cmake/debug/x86/android_gradle_build.json\u0027 was up-to-date",
-    "file": "/Users/akshatbajpai/AndroidStudioProjects/SampleC/app/src/main/cpp/CMakeLists.txt",
+    "message": "JSON \u0027/Users/akshatbajpai/Desktop/Work/SampleC/app/.cxx/cmake/debug/x86/android_gradle_build.json\u0027 was up-to-date",
+    "file": "/Users/akshatbajpai/Desktop/Work/SampleC/app/src/main/cpp/CMakeLists.txt",
     "tag": "debug|x86",
     "diagnosticCode": "UNKNOWN"
   },
   {
     "level": "INFO",
     "message": "JSON generation completed without problems",
-    "file": "/Users/akshatbajpai/AndroidStudioProjects/SampleC/app/src/main/cpp/CMakeLists.txt",
+    "file": "/Users/akshatbajpai/Desktop/Work/SampleC/app/src/main/cpp/CMakeLists.txt",
     "tag": "debug|x86",
     "diagnosticCode": "UNKNOWN"
   }

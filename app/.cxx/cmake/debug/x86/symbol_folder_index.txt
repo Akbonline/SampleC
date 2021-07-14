@@ -1,1 +1,1 @@
-/Users/akshatbajpai/AndroidStudioProjects/SampleC/app/build/intermediates/cmake/debug/obj/x86
+/Users/akshatbajpai/Desktop/Work/SampleC/app/build/intermediates/cmake/debug/obj/x86
