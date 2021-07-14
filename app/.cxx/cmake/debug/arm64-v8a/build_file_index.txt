@@ -1,0 +1,1 @@
+/Users/akshatbajpai/AndroidStudioProjects/SampleC/app/src/main/cpp/CMakeLists.txt
