@@ -1,2 +1,2 @@
-rootProject.name = "SampleC++"
+rootProject.name = "My Application"
 include ':app'
