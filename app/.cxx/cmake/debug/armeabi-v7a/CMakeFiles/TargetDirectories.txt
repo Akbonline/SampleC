@@ -1,0 +1,6 @@
+/Users/akshatbajpai/Desktop/Work/SampleC/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/akshatbajpai/Desktop/Work/SampleC/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/akshatbajpai/Desktop/Work/SampleC/app/.cxx/cmake/debug/armeabi-v7a/CMakeFiles/native-lib.dir
+//CMakeFiles/rebuild_cache.dir
+//CMakeFiles/edit_cache.dir
+//CMakeFiles/hello_world.dir
